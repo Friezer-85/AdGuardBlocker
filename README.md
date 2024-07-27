@@ -1,33 +1,27 @@
 # AdGuardBlocker 🚫🔒
 
-Ce dépôt `AdGuardBlocker` me sert à bloquer des requêtes indésirables sur mon réseau local. Utilisez les filtres de ce dépôt avec AdGuard pour renforcer la sécurité et la confidentialité de votre réseau.
+Ce dépôt `AdGuardBlocker` me sert à bloquer des requêtes indésirables sur mon réseau local. Utilisez les listes de ce dépôt avec AdGuard pour renforcer la sécurité et la confidentialité de votre réseau.
 
 ## 📥 Installation
 
-1. **Ouvrir AdGuard** :
-   - Ouvrez l'application AdGuard.
+1. **Ouvrir AdGuard Home** :
+   - Ouvrez l'interface AdGuard Home.
 
-2. **Accéder aux paramètres** :
-   - Cliquez sur l'icône d'engrenage ⚙️.
+2. **Naviguer vers les listes de blocage** :
+   - Allez dans **Filtres** > **Listes de blocage DNS**.
 
-3. **Naviguer vers les filtres personnalisés** :
-   - Allez dans **Filtres** > **Filtres personnalisés**.
+3. **Ajouter une nouvelle liste** :
+   - Cliquez sur **Ajouter une liste de blocage**.
 
-4. **Ajouter une nouvelle liste** :
-   - Cliquez sur **Ajouter une liste de filtres**.
-
-5. **Entrer l'URL du filtre** :
+4. **Entrer l'URL de le liste** :
    - Utilisez l'URL suivante : `https://raw.githubusercontent.com/Friezer-85/AdGuardBlocker/main/BlockList.txt`.
 
-6. **Valider** :
-   - Cliquez sur **Ajouter** ou **OK**.
-
-7. **Mettre à jour** :
-   - Assurez-vous que la liste est activée et à jour.
+5. **Valider** :
+   - Cliquez sur **Enregistrer**.
 
 ## 🛠️ Utilisation
 
-Les filtres de ce dépôt bloquent les publicités, trackers et autres éléments nuisibles pour améliorer la protection de votre réseau.
+Les filtres de cette liste bloque uniquement YouTube pour le moment, mais la liste s'agrandira au fur et à mesure.
 
 ## 🤝 Contribuer
 
@@ -59,10 +53,6 @@ Les filtres de ce dépôt bloquent les publicités, trackers et autres élément
 
 7. **Créer une Pull Request** :
    - Soumettez une Pull Request sur le dépôt original.
-
-## 📜 Licence
-
-Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus d'informations.
 
 ---
 
