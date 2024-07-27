@@ -17,7 +17,7 @@ Ce dépôt `AdGuardBlocker` me sert à bloquer des requêtes indésirables sur m
    - Cliquez sur **Ajouter une liste de filtres**.
 
 5. **Entrer l'URL du filtre** :
-   - Utilisez l'URL suivante : `https://raw.githubusercontent.com/Friezer-85/AdGuardBlocker/main/liste_de_filtres.txt`.
+   - Utilisez l'URL suivante : `https://raw.githubusercontent.com/Friezer-85/AdGuardBlocker/main/BlockList.txt`.
 
 6. **Valider** :
    - Cliquez sur **Ajouter** ou **OK**.
